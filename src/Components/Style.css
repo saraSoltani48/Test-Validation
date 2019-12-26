@@ -1,0 +1,15 @@
+.mylist{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-bottom: 20px !important;
+    cursor: pointer;
+   
+}
+.boutoon{
+    border-radius: 10px;
+}
+.image{
+    width: 70px;
+    margin-left: 50px;
+}
